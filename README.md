@@ -38,17 +38,6 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/samuelbur
 
 ---
 
-### GitHub Stats
-
-<a href="https://github.com/samuelgit95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelgit95&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Samuel's GitHub Stats" />
-</a>
-<a href="https://github.com/samuelgit95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgit95&layout=compact&theme=buefy&hide_border=true" />
-</a>
-
----
-
 ### 🛠️ Languages and Tools
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </a>
@@ -64,9 +53,6 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/samuelbur
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/samuelgit95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelgit95&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Samuel's GitHub Stats" />
-</a>
 <a href="https://github.com/samuelgit95">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgit95&layout=compact&theme=buefy&hide_border=true" />
 </a>
